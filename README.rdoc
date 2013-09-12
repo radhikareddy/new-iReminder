@@ -1,0 +1,66 @@
+8  mkdir iReminder
+  429  cd iReminder/
+  430  ls
+  431  git init
+  432  git config
+  433  git config --global user.name "Radhika Nooka"
+  434  git config --gloabl user.name
+  435  git config --global user.name
+  436  git config --global 
+  437  git config --global user.email "nookaradhikareddy@gmail.com"
+  438  git credential-osxkeychain
+  439  git push origin master
+  440  ls
+  441  pwd
+  442  git status
+  443  vi Readme.txt
+  444  git commit -m "first commmit"
+  445  git add Readme.txt 
+  446  git commit -m "first commmit"
+  447  git push origin master
+  448  git remote add origin https://github.com/radhikareddy/ireminder.git
+  449  git push origin master
+  450  git push origin master
+  451  clear
+  452  ls
+  453  rails --version
+  454  rvm use
+  455  rvm
+  456  rvm --help
+  457  clear
+  458  ls
+  459  rails --version
+  460  cd ..
+  461  ls
+  462  rm -rf iReminder/
+  463  rails new iReminder
+  464  ls
+  465* 
+  466  cd iReminder/
+  467  ls
+  468  git remote add origin https://github.com/radhikareddy/ireminder.git
+  469  git init
+  470  git remote add origin https://github.com/radhikareddy/ireminder.git
+  471  git add *
+  472  git status
+  473  git add 
+  474  git add .
+  475  ls
+  476  git status
+  477  git push origin master
+  478  git push origin master
+  479  git status
+  480  git revert
+  481  git status
+  482  rails s
+  483  clear
+  484  ls
+  485  rails scaffold Reminder text:string date:datetime mobile:string
+  486  rails g scaffold Reminder text:string date:datetime mobile:string
+  487  rails s
+  488  rails migrate
+  489  rake db:migrate
+  490  rails s
+  491  bundle install
+  492  rails s
+  493  history
